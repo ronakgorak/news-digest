@@ -1,0 +1,123 @@
+{
+  "topic": "electric vehicles",
+  "generated_at": "2026-11-12T10:37:25+00:00",
+  "lookback_days": 7,
+  "requested_limit": 5,
+  "sources": [
+    {
+      "source": "Electrek",
+      "status": "ok",
+      "entries_seen": 150,
+      "entries_kept": 11
+    },
+    {
+      "source": "CleanTechnica",
+      "status": "ok",
+      "entries_seen": 45,
+      "entries_kept": 6
+    },
+    {
+      "source": "InsideEVs",
+      "status": "ok",
+      "entries_seen": 20,
+      "entries_kept": 0
+    },
+    {
+      "source": "electrive",
+      "status": "ok",
+      "entries_seen": 30,
+      "entries_kept": 6
+    },
+    {
+      "source": "The Verge",
+      "status": "ok",
+      "entries_seen": 10,
+      "entries_kept": 0
+    },
+    {
+      "source": "BBC News",
+      "status": "ok",
+      "entries_seen": 29,
+      "entries_kept": 0
+    },
+    {
+      "source": "NPR",
+      "status": "ok",
+      "entries_seen": 10,
+      "entries_kept": 0
+    },
+    {
+      "source": "The Guardian",
+      "status": "ok",
+      "entries_seen": 45,
+      "entries_kept": 0
+    }
+  ],
+  "publishers_found": [
+    "Electrek",
+    "electrive"
+  ],
+  "shortfall": [],
+  "articles": [
+    {
+      "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+      "published_at": "2026-11-12T00:01:00+00:00",
+      "retrieved_at": "2026-11-12T10:37:20+00:00",
+      "excerpt": "Global EV sales climbed 8% in October, with Europe’s battery electric vehicle (BEV) sales jumping 49% and North America posting its first year-over-year increase in 2026. But that North American rebound comes with a big catch. Drivers bought 2.09 million EVs worldwide last month, according to new data from Benchmark Mineral Intelligence. That’s down 3% from September, but it brings sales for the first 10 months of 2026 to 17.5 million – up 5% from the same period last year. Benchmark’s figures include both BEVs and plug-in hybrids (PHEVs) in the passenger-car and light-duty vehicle markets. Europe sold 510,000 EVs in October, up 36% year over year. Fully electric cars did most of the work: BEV sales rose 49%, while plug-in hybrids grew 7%. That puts October’s growth ahead of Europe’s 31% increase for the year so far. The region has now sold 4.5 million EVs in 2026. Sales fell 17% from September’s record, but September got a boost from the UK’s twice-yearly registration plate change. The year-over-year figures give a clearer view of how quickly the market is growing. Germany’s EV share topped 45% of new car sales, its highest level since December 2022. That earlier peak came as buyers rushed to get cars before subsidy cuts took effect. Fully electric car sales in Germany rose almost 80% from a year earlier to more than 95,000. UK EV sales increased 30%. That’s particularly notable because the Electric Car Grant was already available in October 2025, although fewer models qualified then. So this growth comes against a market that was already getting government support. And in Portugal, EVs accounted for 55% of new car sales in October, following a sharp rise in their market share over the past few months. North American EV sales rose 24% year over year to 130,000 in October, the region’s first annual increase of 2026. Sales were flat from September, while the year-to-date decline narrowed to 21%, from 24% a month earlier. The region has sold 1.3 million EVs so far thi",
+      "summary": "Global EV sales climbed 8% in October, with Europe’s battery electric vehicle (BEV) sales jumping 49% and North America posting its first year-over-year increase in 2026. But that North American rebound comes with a big catch. Drivers bought 2.09 million EVs worldwide last month, according to new data from Benchmark Mineral Intelligence.",
+      "summary_basis": "article_text",
+      "extraction_note": null,
+      "missing_fields": []
+    },
+    {
+      "title": "Hyundai is shaking up its 2027 electric vehicle lineup: Here’s what’s changing",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/11/11/hyundai-shaking-up-2027-ev-lineup-whats-changing/",
+      "published_at": "2026-11-11T17:23:27+00:00",
+      "retrieved_at": "2026-11-12T10:37:21+00:00",
+      "excerpt": "Hyundai’s US electric vehicle lineup will look a bit different in 2027, including the new IONIQ 6 N, a new range-topping IONIQ 9 trim, and a handful of minor updates to the IONIQ 5. Hyundai announced its 2027 model-year changes on Wednesday, including the new IONIQ 6 N and a few slight changes to the IONIQ 5 and IONIQ 9. While Hyundai discontinued the standard IONIQ 6, it added the high-performance IONIQ 6 N for the 2027 lineup. The IONIQ 6 N is Hyundai’s second performance EV, following the IONIQ 5 N. Powered by a dual-motor all-wheel-drive powertrain, the electric sports car delivers a combined 641 hp and 568 lb-ft of torque. Hyundai said the IONIQ 6 N can sprint from 0 to 60 mph in 3.2 seconds, beating the IONIQ 5 N at 3.25 seconds. Like the IONIQ 5 N, it also includes fun added features, like N e-Shift and an N Active Sound+ system that simulates the sounds and sensations of a traditional gas-powered sports car with an 8-speed dual-clutch transmission. It uses an 84 kWh battery that provides up to 245 miles of pure electric driving range. Thanks to its 800V ultra-fast charging architecture, the IONIQ 6 N can charge from 10% to 80% in about 18 minutes using a 350 kW DC fast charger. Like Hyundai’s other electric vehicles, it comes standard with a native NACS charging port and a CCS adapter. The 2027 IONIQ 5 and IONIQ 9 are mostly carryover models with a few minor changes, while the IONIQ 5 N remains the same as the 2026 model year. Changes to the IONIQ 5 for the 2027 model year include roof rails, which are now available on the SEL trim and above; previously, they were only available on the XRT and Limited trims. Hyundai HomeLink will be available exclusively on the Limited trim, rather than SEL and above, in the current 2026 model year, while the Cargo Cover will be offered as an Accessory only. Regarding color options, the Gravity Gold Matte and Sage Silver Matte will no longer be available for the 2027 IONIQ 5. The 2027 Hyundai IONIQ 5 starts at $35,250, makin",
+      "summary": "Hyundai’s US electric vehicle lineup will look a bit different in 2027, including the new IONIQ 6 N, a new range-topping IONIQ 9 trim, and a handful of minor updates to the IONIQ 5. Hyundai announced its 2027 model-year changes on Wednesday, including the new IONIQ 6 N and a few slight changes to the IONIQ 5 and IONIQ 9. While Hyundai discontinued the standard IONIQ 6, it added the high-performance IONIQ 6 N for the 2027 lineup.",
+      "summary_basis": "article_text",
+      "extraction_note": null,
+      "missing_fields": []
+    },
+    {
+      "title": "Northumberland to sport 36 more public charge points",
+      "source": "electrive",
+      "url": "https://www.electrive.com/2026/11/11/northumberland-to-sport-36-more-public-charge-points/",
+      "published_at": "2026-11-11T16:00:00+00:00",
+      "retrieved_at": "2026-11-12T10:37:23+00:00",
+      "excerpt": "A new suite of electric vehicle chargers is being added to Northumberland County Council's existing network. The Council has passed a motion to add an additional 36 EV charging points at 26 locations. The picturesque coastal region in the Northeast of England, borders Scotland and is famous for being home to Hadrian's wall and the Northumberland National Park. Of the new charge points being added in the Northumberland region in the UK, 78 per cent of these will be installed on land owned by the Council, with the remaining chargers located on land owned by third parties through a licensing agreement. While the charging infrastructure is being financed with just over £1 million in external funding from the City Region Sustainable Transport Settlement, generated revenue is being used to meet the chargers’ running costs, management and maintenance. The funding will be used to roll out the charge points until 2029. The Northumberland Council has an in-house EV Team who will install and maintain the chargers. Cllr Richard Wearmouth, Cabinet Member with responsibility for transport at Northumberland County Council, said: “It’s great to see more investment towards improving EV charging provision in Northumberland. We have one of the largest road networks in the country, and it is vital that we ensure we have the necessary facilities to help people get around. “ The region gained more sustainable transport just a few months ago when 14 new BYD BD11 battery-electric buses entered service.",
+      "summary": "A new suite of electric vehicle chargers is being added to Northumberland County Council's existing network. The Council has passed a motion to add an additional 36 EV charging points at 26 locations. The picturesque coastal region in the Northeast of England, borders Scotland and is famous for being home to Hadrian's wall and the Northumberland National Park.",
+      "summary_basis": "article_text",
+      "extraction_note": null,
+      "missing_fields": []
+    },
+    {
+      "title": "ACEA Statistics show electric vans gain ground in EU",
+      "source": "electrive",
+      "url": "https://www.electrive.com/2026/11/11/acea-statistics-show-electric-vans-gain-ground-in-eu/",
+      "published_at": "2026-11-11T13:50:00+00:00",
+      "retrieved_at": "2026-11-12T10:37:24+00:00",
+      "excerpt": "The European van market is stagnating, but plug-in models are gaining significant ground. In the first nine months of 2026, their new registrations in the EU increased by 38.2 percent to nearly 152,000 vehicles. The latest commercial vehicle figures from the European Automobile Manufacturers’ Association (ACEA) reveal a mixed picture for light commercial vehicles up to 3.5 tonnes. A total of 1,073,427 vans were newly registered in the EU from January to September, almost matching the previous year’s figure. However, the largest markets showed divergent trends: while Spain saw growth, registrations declined in Germany, Italy and France. The situation is entirely different for externally chargeable drivetrains. In the first nine months, 151,691 such vans were registered, representing a 38.2% increase compared to the previous year. Their share of the EU market rose from 10.2% to 14.1%. While diesel remains clearly dominant, it lost market share: from January to September, 838,830 diesel vans were registered, 4.3% fewer than the previous year. Their share dropped from 81.7% to 78.1%. In its statistics, ACEA does not distinguish between purely battery-electric vans and plug-in hybrids, instead grouping both under the term “electrically chargeable”. Therefore, the figures mentioned cannot be attributed exclusively to battery-electric vehicles. The development in Germany is particularly striking. While the overall van market in the country shrank by 4.1% to 188,704 vehicles, registrations of externally chargeable models increased by 49.7% to 28,755 units. This translates to a market share of just over 15%. Latest October figures from Dataforce show that this momentum has continued to accelerate. After three months of decline, the German van market grew again by 7% in October, reaching 43,158 new registrations. Battery-electric vans increased by 62% to 6,782 units, achieving a market share of 16%. Car rental companies contributed significantly to the overall growth, as thei",
+      "summary": "The European van market is stagnating, but plug-in models are gaining significant ground. In the first nine months of 2026, their new registrations in the EU increased by 38.2 percent to nearly 152,000 vehicles. The latest commercial vehicle figures from the European Automobile Manufacturers’ Association (ACEA) reveal a mixed picture for light commercial vehicles up to 3.5 tonnes.",
+      "summary_basis": "article_text",
+      "extraction_note": null,
+      "missing_fields": []
+    },
+    {
+      "title": "China’s electric car exports surge by 140%",
+      "source": "electrive",
+      "url": "https://www.electrive.com/2026/11/11/chinas-electric-car-exports-surge-by-140-per-cent/",
+      "published_at": "2026-11-11T11:07:43+00:00",
+      "retrieved_at": "2026-11-12T10:37:25+00:00",
+      "excerpt": "Electric vehicles and plug-in hybrids manufactured in China are increasingly becoming an export hit for the People's Republic: In October alone, 606,000 plug-in vehicles were exported from the country — an increase of 140%. In contrast, domestic sales in China declined by 8.6%. The latest wholesale figures from the China Association of Automobile Manufacturers (CAAM) once again highlight the boom in so-called New Energy Vehicles (NEVs) in China. New records have been set, with a total of 1.94 million NEV sales, of which 606.000 NEVs were exported. The CAAM data includes domestic sales and exports, covering both passenger and commercial vehicles. ‘NEV’ is the Chinese umbrella term for purely electric vehicles, plug-in hybrids, and hydrogen fuel cell vehicles. For cars, this almost always means battery electric vehicles (BEVs) and plug-in hybrid vehicles (PHEVs), whereas hydrogen fuel-cell vehicles (FCEVs) are generally only relevant for commercial vehicles alongside other electric vehicle types. The Chinese government now excludes hybrid electric vehicles (HEVs, i.e., without plug-in option) from its NEV designation. NEVs have continued to see significant sales growth — up by 13.1 per cent compared to October 2025, reaching 1.94 million units. This figure combines domestic sales of 1.334 million units with exports: 606,000 plug-in vehicles were exported. The 606,000 NEVs exported is an impressive figure: growth compared to the same month last year was 140 per cent. Even compared to the 571,000 units in September 2026, there was still an increase of 6.1 per cent. More importantly, this means that 31.2 per cent of all NEVs were exported last month. The figures can also be broken down by BEV and PHEV: of the total 1.94 million NEVs produced in China, 1.353 million were battery-electric, and 587,000 were plug-in hybrids (with CAAM including range extenders in this category). Here, too, the export share can be specified: BEV exports in October reached 374,000 units—an inc",
+      "summary": "Electric vehicles and plug-in hybrids manufactured in China are increasingly becoming an export hit for the People's Republic: In October alone, 606,000 plug-in vehicles were exported from the country — an increase of 140%. In contrast, domestic sales in China declined by 8.6%. The latest wholesale figures from the China Association of Automobile Manufacturers (CAAM) once again highlight the boom in so-called New Energy Vehicles (NEVs) in China.",
+      "summary_basis": "article_text",
+      "extraction_note": null,
+      "missing_fields": []
+    }
+  ]
+}
